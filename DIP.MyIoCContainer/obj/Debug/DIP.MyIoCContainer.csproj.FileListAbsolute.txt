@@ -1,0 +1,5 @@
+c:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.MyIoCContainer\bin\Debug\DIP.MyIoCContainer.dll
+c:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.MyIoCContainer\bin\Debug\DIP.MyIoCContainer.pdb
+c:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.MyIoCContainer\obj\Debug\DIP.MyIoCContainer.csprojResolveAssemblyReference.cache
+c:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.MyIoCContainer\obj\Debug\DIP.MyIoCContainer.dll
+c:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.MyIoCContainer\obj\Debug\DIP.MyIoCContainer.pdb

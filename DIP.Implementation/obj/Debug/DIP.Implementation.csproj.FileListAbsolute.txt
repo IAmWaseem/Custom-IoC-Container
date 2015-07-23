@@ -1,0 +1,7 @@
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Implementation\bin\Debug\DIP.Implementation.dll
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Implementation\bin\Debug\DIP.Implementation.pdb
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Implementation\bin\Debug\DIP.Abstractions.dll
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Implementation\bin\Debug\DIP.Abstractions.pdb
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Implementation\obj\Debug\DIP.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Implementation\obj\Debug\DIP.Implementation.dll
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Implementation\obj\Debug\DIP.Implementation.pdb

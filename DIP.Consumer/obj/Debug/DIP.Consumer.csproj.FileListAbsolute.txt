@@ -1,0 +1,14 @@
+c:\users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\bin\Debug\DIP.Consumer.exe.config
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\bin\Debug\DIP.Consumer.exe
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\bin\Debug\DIP.Consumer.pdb
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\bin\Debug\DIP.Abstractions.dll
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\bin\Debug\DIP.HighLevelModule.dll
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\bin\Debug\DIP.Implementation.dll
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\bin\Debug\DIP.MyIoCContainer.dll
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\bin\Debug\DIP.Abstractions.pdb
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\bin\Debug\DIP.HighLevelModule.pdb
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\bin\Debug\DIP.Implementation.pdb
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\bin\Debug\DIP.MyIoCContainer.pdb
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\obj\Debug\DIP.Consumer.csprojResolveAssemblyReference.cache
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\obj\Debug\DIP.Consumer.exe
+C:\Users\waseem.hassan\documents\visual studio 2013\Projects\DIP.Consumer\DIP.Consumer\obj\Debug\DIP.Consumer.pdb
